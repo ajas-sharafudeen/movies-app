@@ -11,5 +11,5 @@ Welcome to the Movie Search Website! This website allows users to search for mov
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **API**: [The OMDb API ]
-- **Deployment**: [Netlify]
+- **API**: The OMDb API
+- **Deployment**: Netlify
