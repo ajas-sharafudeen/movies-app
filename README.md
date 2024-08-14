@@ -1,6 +1,6 @@
-# MOVIEBASE - Movie Search Website
+# BetterReels - Movie Ratings Website
 
-Welcome to the Movie Search Website! This website allows users to search for movies and view details about them.
+Welcome to the BetterReels Movie Ratings Website! This website allows users to search for movies and view details about them.
 
 ## Features
 
